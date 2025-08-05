@@ -6,12 +6,16 @@
 
 ## Criar e organizar listas
 
-- Palmeiras
-- não
-- tem
-- mundial
-- 🐖
+- Item 1
+- Item 3
+- Item 4
+- etc...
+  
+### **Como projeto da faculdade foi pedido que eu programe uma calculadora de orçamento pessoal usando:**
 
+React; JavaScript (ES6+); HTML5; CSS3. 
+
+### Então vamos lá;
 
 
   
